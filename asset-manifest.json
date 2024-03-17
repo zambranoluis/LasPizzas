@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/LasPizzas/static/css/main.aa67e8d2.css",
-    "main.js": "/LasPizzas/static/js/main.365c3dff.js",
+    "main.css": "/LasPizzas/static/css/main.dae11099.css",
+    "main.js": "/LasPizzas/static/js/main.425f8931.js",
     "static/media/doodleBGBig.png": "/LasPizzas/static/media/doodleBGBig.d5519eedbc0e1a70da5e.png",
     "static/media/pizza4042.gif": "/LasPizzas/static/media/pizza4042.3514a50a2a49cd892c6e.gif",
     "static/media/chalk8.ttf": "/LasPizzas/static/media/chalk8.d0b09c4e7652909ea1ae.ttf",
@@ -45,11 +45,11 @@
     "static/media/logoFooter3.png": "/LasPizzas/static/media/logoFooter3.8b936030d8f0356dc80c.png",
     "static/media/socialFb.png": "/LasPizzas/static/media/socialFb.11b5379db5a73a019d5e.png",
     "index.html": "/LasPizzas/index.html",
-    "main.aa67e8d2.css.map": "/LasPizzas/static/css/main.aa67e8d2.css.map",
-    "main.365c3dff.js.map": "/LasPizzas/static/js/main.365c3dff.js.map"
+    "main.dae11099.css.map": "/LasPizzas/static/css/main.dae11099.css.map",
+    "main.425f8931.js.map": "/LasPizzas/static/js/main.425f8931.js.map"
   },
   "entrypoints": [
-    "static/css/main.aa67e8d2.css",
-    "static/js/main.365c3dff.js"
+    "static/css/main.dae11099.css",
+    "static/js/main.425f8931.js"
   ]
 }
